@@ -1,0 +1,8 @@
+{
+  "name": "ioctapp",
+  "app_id": "6277f11a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
